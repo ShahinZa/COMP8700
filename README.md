@@ -107,10 +107,10 @@ Actual Backdoor         3 (FN)   |      20 (TP)
 
 ### Visualizations
 
-![Semantic Drift Distribution](./visualizations/drift_distribution_pro.png)
+![Semantic Drift Distribution](./drift_distribution_pro.png)
 *Figure 1: Clear separation between safe (green) and backdoor (red) responses with 17.3σ statistical significance*
 
-![Comprehensive Results](./visualizations/comprehensive_results_pro.png)
+![Comprehensive Results](./comprehensive_results_pro.png)
 *Figure 2: 4-panel analysis showing confusion matrix, method comparison, distribution analysis, and threshold optimization*
 
 ---
